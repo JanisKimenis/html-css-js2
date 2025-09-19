@@ -1,4 +1,4 @@
-p {
+.red {
   background-color: red;
 }
 img {
@@ -7,4 +7,12 @@ img {
 }
 body {
   background-color: aquamarine;
+}
+.form {
+  margin-left: 43%;
+  margin-top: 10%;
+  width: 100%;
+}
+.bold-text {
+  font-weight: bold;
 }
